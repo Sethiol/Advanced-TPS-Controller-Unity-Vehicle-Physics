@@ -1,4 +1,4 @@
-// GENERATED AUTOMATICALLY FROM 'Assets/AdvancedTPSCharacter/Controls/LookControls.inputactions'
+// GENERATED AUTOMATICALLY FROM 'Assets/AdvancedTPSCharacter/Controls/InputActions/LookControls.inputactions'
 
 using System;
 using System.Collections;

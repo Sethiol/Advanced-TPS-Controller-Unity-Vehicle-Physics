@@ -51658,7 +51658,7 @@ MonoBehaviour:
   m_Follow: {fileID: 1017345422380638432}
   m_CommonLens: 1
   m_Lens:
-    FieldOfView: 51.38699
+    FieldOfView: 65.69228
     OrthographicSize: 10
     NearClipPlane: 0.1
     FarClipPlane: 5000
@@ -51892,7 +51892,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_BindingMode: 4
-  m_FollowOffset: {x: 0, y: 2.23, z: -3.1}
+  m_FollowOffset: {x: 0, y: 1.705089, z: -2.858035}
   m_XDamping: 1
   m_YDamping: 1
   m_ZDamping: 1
@@ -52129,7 +52129,7 @@ MonoBehaviour:
   m_LookAt: {fileID: 1017345423027370871}
   m_Follow: {fileID: 0}
   m_Lens:
-    FieldOfView: 51.38699
+    FieldOfView: 65.69228
     OrthographicSize: 10
     NearClipPlane: 0.1
     FarClipPlane: 5000
@@ -52189,7 +52189,7 @@ MonoBehaviour:
   m_LookAt: {fileID: 1017345423027370871}
   m_Follow: {fileID: 0}
   m_Lens:
-    FieldOfView: 51.38699
+    FieldOfView: 65.69228
     OrthographicSize: 10
     NearClipPlane: 0.1
     FarClipPlane: 5000
@@ -52263,7 +52263,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_BindingMode: 4
-  m_FollowOffset: {x: 0, y: 2.23, z: -3.1}
+  m_FollowOffset: {x: 0, y: 1.705089, z: -2.858035}
   m_XDamping: 1
   m_YDamping: 1
   m_ZDamping: 1
@@ -52442,7 +52442,7 @@ MonoBehaviour:
   m_LookAt: {fileID: 1017345423027370871}
   m_Follow: {fileID: 0}
   m_Lens:
-    FieldOfView: 51.38699
+    FieldOfView: 65.69228
     OrthographicSize: 10
     NearClipPlane: 0.1
     FarClipPlane: 5000
@@ -52550,7 +52550,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_BindingMode: 4
-  m_FollowOffset: {x: 0, y: 2.23, z: -3.1}
+  m_FollowOffset: {x: 0, y: 1.705089, z: -2.858035}
   m_XDamping: 1
   m_YDamping: 1
   m_ZDamping: 1

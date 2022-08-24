@@ -12,6 +12,24 @@
       "source": "builtin",
       "dependencies": {}
     },
+    "com.unity.ads": {
+      "version": "3.7.5",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.analytics": {
+      "version": "3.6.11",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.animation.rigging": {
       "version": "1.0.3",
       "depth": 0,
@@ -118,6 +136,19 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.unity.purchasing": {
+      "version": "3.2.3",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0",
+        "com.unity.modules.unityanalytics": "1.0.0",
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.modules.jsonserialize": "1.0.0",
+        "com.unity.modules.androidjni": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.settings-manager": {
       "version": "1.0.3",
       "depth": 1,
@@ -178,6 +209,16 @@
         "com.unity.modules.particlesystem": "1.0.0",
         "com.unity.modules.physics": "1.0.0",
         "com.unity.modules.physics2d": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.xr.legacyinputhelpers": {
+      "version": "2.1.8",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.vr": "1.0.0",
+        "com.unity.modules.xr": "1.0.0"
       },
       "url": "https://packages.unity.com"
     },
